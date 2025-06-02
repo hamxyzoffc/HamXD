@@ -33,5 +33,10 @@
     "name": "NOVA-OFFC",
     "password": "33333",
     "key": "33333"
+  },
+  "60142875980": {
+    "name": "kayzoganteng",
+    "password": "kayzoganteng01",
+    "key": "kayzogantengbot"
   }
 }
