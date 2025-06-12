@@ -193,5 +193,10 @@
     "name": "PanTamvan",
     "password": "ABCDEFG",
     "key": "0088"
+  },
+  "6283181132469": {
+    "name": "Yanto",
+    "password": "1234",
+    "key": "1234"
   }
 }
